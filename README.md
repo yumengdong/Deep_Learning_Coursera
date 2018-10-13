@@ -12,3 +12,16 @@ Deep Learning Specialization on Coursera
   
 - <A href='http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week4/Deep%20Neural%20Network%20-%20Application%20v8.html'>Deep Neural Network - Application</A><BR>    
     
+## Course 2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
+- <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Regularization/Regularization%20-%20v3.html'> Regularization </A><BR>
+
+- <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Initialization/Initialization.html'> Initialization </A><BR>
+  
+- <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Gradient%20Checking/Gradient%20Checking%20v1.html'> Gradient Checking </A><BR>
+  
+- <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week2/Optimization%20methods_v1.html'> Optimization Methods </A><BR>
+
+- <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3/Tensorflow%20Tutorial.html'> Building neural network in tensorflow </A><BR>
+  
+  
+  
