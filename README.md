@@ -42,6 +42,11 @@ Deep Learning Specialization on Coursera
 
 - <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3/Tensorflow%20Tutorial.html'> Building neural network in tensorflow </A><BR>
   - Build a deep neural network to recognize numbers in sign language using TensorFlow framework
-  
-  
+   
+## Course 3. Structuring Machine Learning Projects
+- Use human-level perform to define the key priorities in ML projects
+- Define the evaluation metrics for ML algorithm
+- Correctly choose train/dev/test split of the dataset
+- Understand what multi-task learning and transfer learning, and end-to-end learning
+- Recognize bias, variance and data-mismatch by looking at the performances of your algorithm on train/dev/test sets
   
