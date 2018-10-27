@@ -44,9 +44,13 @@ Deep Learning Specialization on Coursera
   - Build a deep neural network to recognize numbers in sign language using TensorFlow framework
    
 ## Course 3. Structuring Machine Learning Projects
-- Use human-level perform to define the key priorities in ML projects
-- Define the evaluation metrics for ML algorithm
-- Correctly choose train/dev/test split of the dataset
-- Understand what multi-task learning and transfer learning, and end-to-end learning
-- Recognize bias, variance and data-mismatch by looking at the performances of your algorithm on train/dev/test sets
+
+- <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20(case%20study).html'> Bird recognition in the city of Peacetopia (case study) </A><BR>
+  - Use human-level perform to define the key priorities in ML projects
+  - Define the evaluation metrics for ML algorithm
+  - Correctly choose train/dev/test split of the dataset
+
+- <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Autonomous%20driving%20(case%20study).html'> Autonomous driving (case study) </A><BR>
+  - Understand what multi-task learning and transfer learning, and end-to-end learning
+  - Recognize bias, variance and data-mismatch by looking at the performances of your algorithm on train/dev/test sets
   
