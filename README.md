@@ -54,3 +54,13 @@ Deep Learning Specialization on Coursera
   - Understand what multi-task learning and transfer learning, and end-to-end learning
   - Recognize bias, variance and data-mismatch by looking at the performances of your algorithm on train/dev/test sets
   
+## Course 4. Convolutional Neural Networks
+
+- <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Convolutional%20Neural%20Networks/Convolution%20model%20-%20Step%20by%20Step%20-%20v2.html'> Convolutional Neural Networks: Step by Step </A><BR>
+  - Create convolutional layers and pooling layers using numpy
+  - Implement padding, stride, forward propagation and backward propagation in a convolutional neural network
+
+- <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Convolutional%20Neural%20Networks/Convolution%20model%20-%20Application%20-%20v1.html'> Convolutional Model: application </A><BR>
+  - Build and train a convolutional neural network for SIGNS image multi-class classification using TensorFlow
+  - Evaluate the model performance by comparing the training and test set accuracy / error
+  - Improve the model performance by turning hyperparameter and using L2 regularization
