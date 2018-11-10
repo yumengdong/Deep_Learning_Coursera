@@ -64,3 +64,14 @@ Deep Learning Specialization on Coursera
   - Build and train a convolutional neural network for SIGNS image multi-class classification using TensorFlow
   - Evaluate the model performance by comparing the training and test set accuracy / error
   - Improve the model performance by turning hyperparameter and using L2 regularization
+  
+- <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Convolutional%20Neural%20Networks/Week2/KerasTutorial/Keras%20-%20Tutorial%20-%20Happy%20House%20v2.html'> Keras Tutorial - The Happy House </A><BR>
+   - Build a deep neural network using Keras to recognize "happy" faces
+   - Implement Batch Normalization in CNN to allow higher learning rates and reduce dependence on initialization
+   - Improve the model prediction accuracy by changing optimizer and adding more convolutional layer
+  
+- <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Convolutional%20Neural%20Networks/Week2/ResNets/Residual%20Networks%20-%20v2.html'> Residual Networks </A><BR>
+   - Build and train 50 layers deep convolutional networks for SIGNS image multi-class classification
+   - Implement ResNet to avoid vanishing gradients issue
+   - Build skip connection identity block and convolutional block for ResNet
+   - Use transfer learning to achieve better prediction accuracy on test datasets
