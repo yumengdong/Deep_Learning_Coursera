@@ -76,5 +76,12 @@ Deep Learning Specialization on Coursera
    - Build skip connection identity block and convolutional block for ResNet
    - Use transfer learning to achieve better prediction accuracy on test datasets
   
-- <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Convolutional%20Neural%20Networks/Week3/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v3.html'> Autonomous driving - Car detection with YOLO </A><BR>
-   - D
+- <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Convolutional%20Neural%20Networks/Week3/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v3.html'> Autonomous driving - Car detection using YOLO </A><BR>
+   - Implement car detection deep learning YOLO model using Keras and TensorFlow
+   - Create non-max suppression and Intersection over Union function
+   - Add anchor boxes to improve multi-classes detection performance
+   - Load the pre-trained weight to help on the YOLO model training
+
+
+
+
