@@ -88,5 +88,8 @@ Deep Learning Specialization on Coursera
    - Compute the similarity between new input image and image from database using encodings
 
 - <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Convolutional%20Neural%20Networks/Week4/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v2.html'> Art Generation with Neural Style Transfer </A><BR>
-   - d
+   - Implement neural style transfer algorithm using TensorFlow
+	 - Use transfer learning technique to apply pre-trained VGG-19 network to Neural Style Transfer
+	 - Create functions to compute Content cost from one hidden layer and Style cost from several hidden layers
+   - Retune weights / hyperparameters to get better looking images
 
