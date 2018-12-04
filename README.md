@@ -82,6 +82,9 @@ Deep Learning Specialization on Coursera
    - Add anchor boxes to improve multi-classes detection performance
    - Load the pre-trained weight to help on the YOLO model training
 
-
+- <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Convolutional%20Neural%20Networks/Week4/Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.html'> Face Recognition for the Happy House </A><BR>
+   - Implement Face Verification (1:1 matching) and Face Recognition (1:K matching) algo using FaceNet
+   - Build the Triplet Loss function to train the neural network
+   - Compute the similarity between new input image and image from database using encodings
 
 
