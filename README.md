@@ -93,4 +93,9 @@ Deep Learning Specialization on Coursera
    - Create functions to compute Content cost from one hidden layer and Style cost from several hidden layers
    - Retune weights / hyperparameters to get better looking images
 
-## Course 5
+## Course 5. Sequence Models
+
+- <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Sequence%20Models/Week1/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v3.html'> Build your Recurrent Neural Network </A><BR>
+  - Implement Recurrent Neural Network cell computation in numpy
+  - Develop a loop over time-steps in order to process all the inputs one at a time
+  - Build Long Short Term Memory (LSTM) network to address vanishing gradients issue
