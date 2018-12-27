@@ -99,3 +99,9 @@ Deep Learning Specialization on Coursera
   - Implement Recurrent Neural Network cell computation in numpy
   - Develop a loop over time-steps in order to process all the inputs one at a time
   - Build Long Short Term Memory (LSTM) network to address vanishing gradients issue
+
+- <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Sequence%20Models/Week1/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.html'> Character Level Language Model </A><BR>
+  - Build a character-level text generation recurrent neural network
+  - Use the gradient clipping function to avoid exploding gradients
+  - Implement sampling function to generate new characters for dinosaur name
+  - Use LSTM model in Keras to generate poem like Shakespeare
