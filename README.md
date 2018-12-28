@@ -105,3 +105,7 @@ Deep Learning Specialization on Coursera
   - Use the gradient clipping function to avoid exploding gradients
   - Implement sampling function to generate new characters for dinosaur name
   - Use LSTM model in Keras to generate poem like Shakespeare
+  
+- <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Sequence%20Models/Week1/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v3.html'> Improvise a Jazz Solo with an LSTM Network </A><BR>
+  - Implement a model that uses an LSTM to generate music
+  - Create functions using Keras to sample a sequence of musical values
