@@ -109,3 +109,8 @@ Deep Learning Specialization on Coursera
 - <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Sequence%20Models/Week1/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v3.html'> Improvise a Jazz Solo with an LSTM Network </A><BR>
   - Implement a model that uses an LSTM to generate music
   - Create functions using Keras to sample a sequence of musical values
+
+- <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Sequence%20Models/Week2/Operations%20on%20word%20vectors%20-%20v2.html'> Operations on word vectors </A><BR>
+  - Build word embeddings to solve world analogy problems
+  - Implement equalization algo to reduce gender bias
+  - Use Glove vectors to decide how similar two words are
