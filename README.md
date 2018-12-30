@@ -115,6 +115,6 @@ Deep Learning Specialization on Coursera
   - Implement equalization algo to reduce gender bias
   - Use Glove vectors to decide how similar two words are
 
-- <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Sequence%20Models/Week2/Operations%20on%20word%20vectors%20-%20v2.html'> Emojify </A><BR>
+- <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Sequence%20Models/Week2/Emojify%20-%20v2.html'> Emojify </A><BR>
   - Build Emojify model using word embedding to find the most appropriate emoji based on the input sentence
   - Add LSTM so that model can predict the most appropriate emoji
