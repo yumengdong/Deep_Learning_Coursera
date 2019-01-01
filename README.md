@@ -118,3 +118,7 @@ Deep Learning Specialization on Coursera
 - <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Sequence%20Models/Week2/Emojify%20-%20v2.html'> Emojify </A><BR>
   - Build Emojify model using word embedding to find the most appropriate emoji based on the input sentence
   - Add LSTM so that model can predict the most appropriate emoji
+  
+- <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Sequence%20Models/Week3/Machine%20Translation/Neural%20machine%20translation%20with%20attention%20-%20v4.htm'> Neural Machine Translation </A><BR>
+  - Build a Neural Machine Translation (NMT) model to translate human readable dates into machine readable dates
+  - Use attention model / 2 separate LSTM models to focus on the most relevant parts of the input
