@@ -122,3 +122,7 @@ Deep Learning Specialization on Coursera
 - <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Sequence%20Models/Week3/Machine%20Translation/Neural%20machine%20translation%20with%20attention%20-%20v4.htm'> Neural Machine Translation </A><BR>
   - Build a Neural Machine Translation (NMT) model to translate human readable dates into machine readable dates
   - Use attention model / 2 separate LSTM models to focus on the most relevant parts of the input
+  
+- <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Deep_Learning_Coursera/blob/master/Sequence%20Models/Week3/Trigger%20word%20detection/Trigger%20word%20detection%20-%20v1.html'> Trigger Word Detection </A><BR>
+  - Build wakeword detection RNN model
+  - Synthesize and process audio recording
